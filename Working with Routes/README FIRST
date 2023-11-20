@@ -1,0 +1,4 @@
+Follow Below Instruction in Terminal: 
+
+1.) npm init -y
+2.) npm install nodemon express routes mongoose
